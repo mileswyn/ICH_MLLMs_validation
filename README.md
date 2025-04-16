@@ -6,5 +6,5 @@ The preprocessing data can be downloaded from the google cloud drive.
 ### Dataset Link
 #### Google Cloud Drive
 ```
-[https://drive.google.com/file/d/1idT6rCKXry-Yc8GF-DBxEn6e32-pBiFF/view?usp=sharing](https://drive.google.com/file/d/1r7MtlgSt2a2deJ9ORNqEKn8xg9mc-DWZ/view?usp=drive_link)
+https://drive.google.com/file/d/1r7MtlgSt2a2deJ9ORNqEKn8xg9mc-DWZ/view?usp=drive_link
 ```
